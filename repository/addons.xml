@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.video.qq"
-    name="腾讯视频(QQ)"
-    version="1.0.3"
+    name="Tencent(QQ)"
+    version="1.0.4"
     provider-name="Lukin">
     <extension
         point="xbmc.python.pluginsource"
