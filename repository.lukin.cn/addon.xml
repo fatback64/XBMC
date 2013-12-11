@@ -2,7 +2,7 @@
 <addon id="repository.lukin.cn" name="Lukin Add-on Repository" version="1.0.1" provider-name="Lukin">
 	<extension point="xbmc.addon.repository" name="Lukin Add-on Repository">
 		<info compressed="false">http://github.com/mylukin/XBMC/raw/master/repository/addons.xml</info>
-		<datadir zip="false">http://github.com/mylukin/XBMC/raw/master/repository/</datadir>
+		<datadir zip="true">http://github.com/mylukin/XBMC/raw/master/repository/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Add-ons from Lukin Add-on Repository</summary>
