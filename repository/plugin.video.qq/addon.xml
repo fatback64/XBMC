@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.qq" name="腾讯视频(QQ)" version="1.0.3" provider-name="Lukin">
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">QQ video plugin</summary>
+        <summary lang="zh">腾讯网视频插件</summary>
+        <description lang="en">online video from v.qq.com</description>
+        <description lang="zh">观看腾讯网在线视频</description>
+    </extension>
+</addon>
